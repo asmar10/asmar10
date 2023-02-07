@@ -1,4 +1,4 @@
-![Header](https://github.com/asmar10/asmar10/blob/main/header.png)
+![Header](https://github.com/asmar10/asmar10/blob/main/header-image.png)
 
 ### Hello there, I'm Asmar <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
 
@@ -6,7 +6,7 @@
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
 
-## I'm a Student, Developer, and Learner!
+## I'm an Aspiring Blockchain Developer
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working as a Blockchain Developer
