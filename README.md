@@ -1,4 +1,4 @@
-![Header](https://github.com/asmar10/asmar10/blob/main/header%20image.png)
+<!-- ![Header](https://github.com/asmar10/asmar10/blob/main/header%20image.png) -->
 <!-- <img src="https://github.com/asmar10/asmar10/blob/main/header%20image.png" height="100%" width="100%"/> -->
 
 ### Hello there, I'm Asmar <img src="https://media.giphy.com/media/h8NnG7uDobXO576L0G/giphy.gif" width="60" height="60" />
