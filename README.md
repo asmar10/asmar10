@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning everything 😃
 - 🥅 2023 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to code and solve problems
-- 📫 How to reach me **asmarhasan14@gmail.com**
+- 📫 Reach me at **asmarhasan14@gmail.com**
 
 ---
 
